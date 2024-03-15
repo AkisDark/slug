@@ -1,6 +1,6 @@
 <?php
 
-namespace wdd\slug\functions;
+namespace akis\slug\functions;
 
 use Illuminate\Support\Str;
 

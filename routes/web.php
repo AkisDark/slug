@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;  
-use wdd\slug\Http\Controllers\SlugController;
+use akis\slug\Http\Controllers\SlugController;
 
 
 

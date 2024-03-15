@@ -1,5 +1,5 @@
 {
-    "name": "wdd/slug",
+    "name": "akis/slug",
     "description": "slug creator",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wdd\\slug\\": "src"
+            "akis\\slug\\": "src"
         }
     }
 }

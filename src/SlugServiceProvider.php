@@ -1,6 +1,6 @@
 <?php
 
-namespace wdd\slug;
+namespace akis\slug;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -10,7 +10,7 @@ class SlugServiceProvider extends ServiceProvider
     {
         $this->loadRoutesFrom(__DIR__ . '/../routes/web.php');
         $this->loadMigrationsFrom(__DIR__ . '/../src/Database/migrations');
-        $this->loadViewsFrom(__DIR__ . '/../src/views', 'wdd/slug');
+        $this->loadViewsFrom(__DIR__ . '/../src/views', 'akis/slug');
     }
 
     public function register()
