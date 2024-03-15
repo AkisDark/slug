@@ -1,0 +1,19 @@
+{
+    "name": "wdd/slug",
+    "description": "slug creator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AkisDark",
+            "email": "akis.akka.islam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "wdd\\slug\\": "src"
+        }
+    }
+}
